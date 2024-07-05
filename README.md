@@ -1,4 +1,4 @@
-#ES6-Nore
+#ES6-Note
 ```css
 <!DOCTYPE html>
 <html lang="en">
